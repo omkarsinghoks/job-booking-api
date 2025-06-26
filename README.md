@@ -174,4 +174,4 @@ job-booking-api/
 
 ## Contact
 
-For questions or support, open an issue or contact [your-email@example.com](mailto:your- oksi6189@gmail.com).
+For questions or support, open an issue or contact(mailto:your- oksi6189@gmail.com).
